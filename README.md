@@ -7,6 +7,18 @@
 
 2. Documentation
 
+3. _unfuck the code_
+
+4. **Figure out how to securely and effectively host the C&C server**
+
+  Tor Hidden Service? Can be blocked by firewalls.
+
+   Run through twitter? Can't tansfer large amounts of information in a small period of time.
+     
+   Cloud hosting? Requires money.
+     
+   All are options...
+   
 3. Modulation of botnet function. i.e.
 
   > from elevation import bypassuac
